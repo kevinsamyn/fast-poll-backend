@@ -1,2 +1,3 @@
-# fast-poll-backend
-Backend de l'application Fast Poll développé en Kotlin avec Spring
+# Fast Poll Backend
+
+Backend de l'application Fast poll

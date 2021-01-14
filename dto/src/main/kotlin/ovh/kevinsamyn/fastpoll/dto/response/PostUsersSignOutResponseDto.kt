@@ -1,0 +1,3 @@
+package ovh.kevinsamyn.fastpoll.dto.response
+
+class PostUsersSignOutResponseDto
